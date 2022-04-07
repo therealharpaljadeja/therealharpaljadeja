@@ -2,7 +2,7 @@
 - 👀 I’m interested in BlockChain Technology
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me -> jadejaharpal14@gmail.com
-- 5x Hackathon Winner (HackMoney 2021, ETHOdyssey 2021, Metabuidl, SBHack 2021, Celo Mobile DeFi)
+- 7x Hackathon Winner (HackMoney 2021, ETHOdyssey 2021, Metabuidl, SBHack 2021, Celo Mobile DeFi, BulidQuest 2022, LFGrow)
 
 <!---
 therealharpaljadeja/therealharpaljadeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
