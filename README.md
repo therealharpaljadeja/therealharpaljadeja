@@ -4,6 +4,7 @@
 
 📫 How to reach me
 <br>
+<br>
 <a href="https://twitter.com/HarpalJadeja11">![@harpaljadeja on twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="mailto:jadejaharpal14@gmail.com">![jadejaharpal14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/harpalsinhjadeja/">![harpalsinhjadeja on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -285,7 +286,41 @@
         </details>
 
 </details>
-    <!---
-    therealharpaljadeja/therealharpaljadeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    You can click the Preview link to take a look at your changes.
-    --->
+<details>
+<summary>Articles & Videos</summary>
+
+-   [Minting ERC721s on Avalanche](https://docs.avax.network/build/tutorials/tutorials-contest/how-to-mint-erc721-using-openzeppelin/tutorial)
+-   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
+-   [Web3 Developer Roadmap Video](https://www.youtube.com/watch?v=q54j35z3fPQ)
+-   [Biconomy Explainer](https://chisel-quality-501.notion.site/All-you-need-to-know-about-Biconomy-82cd8281ad9a4fb6afc815e3fc28c793)
+</details>
+
+<details>
+<summary>Secureum Test Marks</summary>
+    
+- Ethereum 101 - 22/32
+- Solidity 101 Quiz - 16/32
+- Solidity 201 Quiz - 14/32
+- Security Pitfalls & Best Practices 101 Quiz - 7/16
+- Secureum Bootcamp Security Pitfalls & Best Practices 201 Quiz - 5/8
+- Secureum Bootcamp Audit Findings 101 Quiz - 4/8
+- Secureum Bootcamp Audit Findings 201 Quiz - 3/8
+
+</details>
+
+<details>
+<summary>Communities I am part of.</summary>
+
+-   Developer DAO
+-   Kernel by Gitcoin
+-   Secureum Cohort 0
+</details>
+<br>
+<p align="center"><a href="https://app.poap.xyz/scan/0x687Bfa719C70925920A61d5A4f9fD738fD3d87C5">Poap Collection 1</a> . 
+<a href="https://app.poap.xyz/scan/0x22b2DD2CFEF2018D15543c484aceF6D9B5435863">Poap Collection 2</a> . 
+<a href="https://opensea.io/assets/matic/0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f/22910636863232736">Kernel NFT</a>
+</p>
+<!---
+therealharpaljadeja/therealharpaljadeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
