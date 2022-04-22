@@ -296,19 +296,6 @@
 </details>
 
 <details>
-<summary>Secureum Test Marks</summary>
-    
-- Ethereum 101 - 22/32
-- Solidity 101 Quiz - 16/32
-- Solidity 201 Quiz - 14/32
-- Security Pitfalls & Best Practices 101 Quiz - 7/16
-- Secureum Bootcamp Security Pitfalls & Best Practices 201 Quiz - 5/8
-- Secureum Bootcamp Audit Findings 101 Quiz - 4/8
-- Secureum Bootcamp Audit Findings 201 Quiz - 3/8
-
-</details>
-
-<details>
 <summary>Communities I am part of.</summary>
 
 -   Developer DAO
