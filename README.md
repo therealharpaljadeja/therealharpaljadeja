@@ -301,6 +301,7 @@
 -   Developer DAO
 -   Kernel by Gitcoin
 -   Secureum Cohort 0
+-   Macro
 </details>
 <br>
 <p align="center"><a href="https://app.poap.xyz/scan/0x687Bfa719C70925920A61d5A4f9fD738fD3d87C5">Poap Collection 1</a> . 
