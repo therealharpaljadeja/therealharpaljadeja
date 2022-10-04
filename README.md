@@ -293,6 +293,9 @@
 -   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
 -   [Web3 Developer Roadmap Video](https://www.youtube.com/watch?v=q54j35z3fPQ)
 -   [Biconomy Explainer](https://chisel-quality-501.notion.site/All-you-need-to-know-about-Biconomy-82cd8281ad9a4fb6afc815e3fc28c793)
+-   [Build React Native Apps on Celo](https://medium.com/celodevelopers/celo-composer-react-native-easily-build-react-native-dapps-on-celo-bdc57080772f)
+-   [Bridging tokens to and from Celo via Wormhole](https://medium.com/celodevelopers/bridging-token-to-and-from-celo-via-wormhole-83cae48dfcff)
+-   [How to create a Loyalty Program using Meta-transactions](https://medium.com/celodevelopers/how-to-create-a-loyalty-program-using-meta-transactions-686ae036b976)
 </details>
 
 <details>
