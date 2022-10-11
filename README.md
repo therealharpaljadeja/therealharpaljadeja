@@ -12,8 +12,7 @@
 
 ## Web3 Journey Summary (Since April 2021)
 
-<details>
-    <summary>Projects that i've built.</summary>
+Projects i've built.
 
 -   <details>
      <summary>NiftySubs - Decentralized pay-as-you-watch Livestreaming Platform</summary>
@@ -285,9 +284,7 @@
 
         </details>
 
-</details>
-<details>
-<summary>Articles & Videos</summary>
+Articles & Videos
 
 -   [Minting ERC721s on Avalanche](https://docs.avax.network/build/tutorials/tutorials-contest/how-to-mint-erc721-using-openzeppelin/tutorial)
 -   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
@@ -296,16 +293,16 @@
 -   [Build React Native Apps on Celo](https://medium.com/celodevelopers/celo-composer-react-native-easily-build-react-native-dapps-on-celo-bdc57080772f)
 -   [Bridging tokens to and from Celo via Wormhole](https://medium.com/celodevelopers/bridging-token-to-and-from-celo-via-wormhole-83cae48dfcff)
 -   [How to create a Loyalty Program using Meta-transactions](https://medium.com/celodevelopers/how-to-create-a-loyalty-program-using-meta-transactions-686ae036b976)
-</details>
+-   [Introduction to Celo](https://www.youtube.com/watch?v=HQ3FRZiuPfI)
+-   [Introduction to Hardhat](https://www.youtube.com/watch?v=W7nGdHKcIFw) @Build with Celo Hackathon
 
-<details>
-<summary>Communities I am part of.</summary>
+Communities I am part of.
 
--   Developer DAO
--   Kernel by Gitcoin
--   Secureum Cohort 0
--   Macro
-</details>
+-   [Developer DAO](https://www.developerdao.com/)
+-   [Kernel by Gitcoin](https://www.kernel.community/en)
+-   [Secureum Cohort 0](https://www.secureum.xyz/)
+-   [Macro](https://0xmacro.com/)
+
 <br>
 <p align="center"><a href="https://app.poap.xyz/scan/0x687Bfa719C70925920A61d5A4f9fD738fD3d87C5">Poap Collection 1</a> . 
 <a href="https://app.poap.xyz/scan/0x22b2DD2CFEF2018D15543c484aceF6D9B5435863">Poap Collection 2</a> . 
