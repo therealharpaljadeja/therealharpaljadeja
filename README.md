@@ -1,6 +1,6 @@
 -   👋 Hi, I’m @therealharpaljadeja
 -   👀 I’m interested in Web3.
--   🌱 I’m currently learning Full Stack Web3 Development (Typescript, GraphQL, Solidity, Hardhat).
+-   🌱 I’m currently learning Full Stack Web3 Development (Typescript, GraphQL, Solidity).
 
 📫 How to reach me
 <br>
