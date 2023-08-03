@@ -12,7 +12,7 @@
 
 ## Web3 Journey Summary (Since April 2021)
 
-Projects i've built.
+Projects I've built.
 
 -   <details>
      <summary>NiftySubs - Decentralized pay-as-you-watch Livestreaming Platform</summary>
@@ -283,6 +283,210 @@ Projects i've built.
             </details>
 
         </details>
+        
+    -   <details>
+             <summary>Celo OZ Relayer - Meta-Transactions on Celo network using Openzeppelin Relay</summary>
+
+        -   <details>
+            <summary>How it's made</summary>
+
+            -   OpenZepplin Relay & Autotask
+            -   Celo
+            -   ReactJS
+
+            </details>
+
+        -   <details>
+            <summary>My Contribution</summary>
+
+            -   Scripts to construct the message to be signed
+            -   Script for Relay validation logic, basically what conditions need to be satisfied in order to get transaction sponsorship 
+            -   Write and Deploy smart contract that support Meta-Transaction
+            </details>
+
+        -   <details>
+            <summary>References & Docs</summary>
+
+            -   [Openzeppelin Relay](https://docs.openzeppelin.com/defender/relay)
+            -   [Openzeppelin Autotask](https://docs.openzeppelin.com/defender/autotasks)
+            -   [ERC2771](https://eips.ethereum.org/EIPS/eip-2771)
+
+            </details>
+
+        -   <details>
+            <summary>Links</summary>
+
+            -   [Github](https://github.com/therealharpaljadeja/celo-meta-tx-using-openzeppelin-relayer/tree/main)
+            </details>
+
+        </details>
+
+     - <details>
+          <summary>SocialConnect React Native App - React Native App demonstrating Phone number to Ethereum Address resolution</summary>
+
+          - <details>
+               <summary>How it's made</summary>
+ 
+               - SocialConnect
+               - React Native
+            </details>
+          
+          - <details>
+               <summary>My Contribution</summary>
+                
+                - Solo dev on the project!
+             </details>
+
+          - <details>
+            <summary>References & Docs</summary>
+
+            -   [SocialConnect](https://github.com/celo-org/SocialConnect)
+            </details>
+          - <details>
+               <summary>Links</summary>
+ 
+               - [Github](https://github.com/celo-org/SocialConnect-ReactNative-Demo)
+          </details>
+     </details>
+
+     - <details>
+       <summary>SocialConnect NextJS App (Twitter) - NextJS App demonstrating Twitter handle to Ethereum Address resolution</summary>
+
+       - <details>
+         <summary>How it's made</summary>
+         
+           - SocialConnect
+           - Twitter API v2
+           - NextAuth
+           - NextJS
+         </details>
+       
+       - <details>
+         <summary>My Contribution</summary>
+
+         - Solo dev on the project!       
+         </details>
+
+       - <details>
+          <summary>References & Docs</summary>
+
+          -   [SocialConnect](https://github.com/celo-org/SocialConnect)
+          -   [Twitter API](https://developer.twitter.com/en/docs/twitter-api/users/lookup/introduction)
+          -   [NextAuth](https://next-auth.js.org/getting-started/client)
+  
+         </details>
+
+       - <details>
+         <summary>Links</summary>
+         
+           - [Github](https://github.com/celo-org/SocialConnect-Twitter-Server-Side)
+           - [Demo Video](https://github.com/celo-org/SocialConnect-Twitter/assets/38040789/ab7cfd0c-3b83-45f4-990c-0143c9d9033a)
+          </details>
+       
+     </details>
+
+     - <details>
+        <summary>Allowlist Paymaster dApp - ERC4337 Paymaster that only sponsors transactions from set of addresses</summary>
+
+       - <details>
+         <summary>How it's made</summary>
+
+           - ThirdWeb Smart Wallet
+           - Celo         
+         </details>
+
+       - <details>
+           <summary>
+           My Contribution  
+           </summary>
+
+           - Solo dev on the project!       
+         </details>
+      
+        - <details>
+          <summary>References & Docs</summary>
+
+          -   [ThirdWeb](https://portal.thirdweb.com/wallet/smart-wallet)
+          -   [ERC4337](https://eips.ethereum.org/EIPS/eip-4337)
+  
+           </details>
+
+         - <details>
+             <summary>Links</summary>
+         
+             - [Github](https://github.com/celo-academy/allowlist-paymaster-dapp)
+          </details>
+
+     </details>
+
+     - <details>
+       <summary>Tweet Paymaster - Tweet to get free UserOperations</summary>
+
+       -  <details>
+           <summary>How it's made</summary>
+
+            - Alchemy AA SDK
+            - Twitter API v2
+           </details>
+
+       -  <details>
+           <summary>My Contribution</summary>
+         
+            - Solo dev on the project!
+           </details>
+
+       - <details>
+          <summary>References & Docs</summary>
+
+          -   [Alchemy AA](https://docs.alchemy.com/docs/account-abstraction-overview)
+          -   [ERC4337](https://eips.ethereum.org/EIPS/eip-4337)
+  
+           </details>
+           
+       - <details>
+           <summary>Links</summary>
+         
+           -   [Github](https://github.com/therealharpaljadeja/tweet-paymaster)
+           -   [Try](https://tweet-paymaster.vercel.app)
+         
+          </details>
+     </details>
+
+     - <details>
+       <summary>Cross Chain Lens - Making Lens profile and posts from Celo network</summary>
+
+       -  <details>
+           <summary>How it's made</summary>
+
+            - Lens SDK
+            - Wormhole
+           </details>
+
+       -  <details>
+           <summary>My Contribution</summary>
+         
+            - Solo dev on the project!
+           </details>
+
+       - <details>
+          <summary>References & Docs</summary>
+
+          -   [Lens SDK](https://github.com/lens-protocol/lens-sdk)
+          -   [Wormhole Relayer](https://docs.wormhole.com/wormhole/quick-start/cross-chain-dev/automatic-relayer)
+  
+           </details>
+           
+       - <details>
+           <summary>Links</summary>
+         
+           -   [Github](https://github.com/therealharpaljadeja/cross-chain-lens)
+           -   [Profile Created via Celo](https://testnet.lenster.xyz/u/celowormholedemo1)
+           -   [Demo Video](https://drive.google.com/file/d/1h4xOlEqg1Wb1I0P4itntBjSysAYJtAZl/preview)
+         
+          </details>
+     </details>
+
+     
 
 Articles & Videos
 
@@ -295,6 +499,7 @@ Articles & Videos
 -   [How to create a Loyalty Program using Meta-transactions](https://medium.com/celodevelopers/how-to-create-a-loyalty-program-using-meta-transactions-686ae036b976)
 -   [Introduction to Celo](https://www.youtube.com/watch?v=HQ3FRZiuPfI)
 -   [Introduction to Hardhat](https://www.youtube.com/watch?v=W7nGdHKcIFw) @Build with Celo Hackathon
+-   [ETHGlobal Celo Presentation](https://www.youtube.com/watch?v=5sgNDf9olJ8)
 
 Communities I am part of.
 
