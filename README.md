@@ -489,7 +489,9 @@ Projects I've built.
      
 
 Articles & Videos
-
+-   [What is Modular Account Abstraction?](https://www.alchemy.com/overviews/modular-account-abstraction)
+-   [What are Meta Transactions (ERC-2771)?](https://www.alchemy.com/overviews/meta-transactions)
+-   [Account Abstraction (ERC-4337) vs. Meta Transactions (ERC-2771)](https://www.alchemy.com/overviews/4337-vs-2771)
 -   [Minting ERC721s on Avalanche](https://docs.avax.network/build/tutorials/tutorials-contest/how-to-mint-erc721-using-openzeppelin/tutorial)
 -   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
 -   [Web3 Developer Roadmap Video](https://www.youtube.com/watch?v=q54j35z3fPQ)
