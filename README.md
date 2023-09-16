@@ -1,6 +1,4 @@
--   👋 Hi, I’m @therealharpaljadeja
--   👀 I’m interested in Web3.
--   🌱 I’m currently learning Full Stack Web3 Development (Typescript, GraphQL, Solidity).
+👋 Hi, I’m @therealharpaljadeja, I work at Celo!
 
 📫 How to reach me
 <br>
