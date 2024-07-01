@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/harpalsinhjadeja/">![harpalsinhjadeja on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UCIqQqnmSm3ERdGYHA8Z8HyQ">![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
-## Web3 Journey Summary (Since April 2021)
+## Web3 Journey Summary
 
 Projects I've built.
 
