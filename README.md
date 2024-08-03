@@ -747,19 +747,18 @@ Articles & Videos
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | [![Introduction To Farcaster Frames](https://img.youtube.com/vi/gMG9hYevFtA/0.jpg)](https://www.youtube.com/watch?v=gMG9hYevFtA) | [![Coinbase Smart Wallet Tutorial](https://img.youtube.com/vi/ReDpcUJMz5g/0.jpg)](https://www.youtube.com/watch?v=ReDpcUJMz5g) |
 
--   [What is Modular Account Abstraction?](https://www.alchemy.com/overviews/modular-account-abstraction)
 -   [What are Meta Transactions (ERC-2771)?](https://www.alchemy.com/overviews/meta-transactions)
 -   [Account Abstraction (ERC-4337) vs. Meta Transactions (ERC-2771)](https://www.alchemy.com/overviews/4337-vs-2771)
--   [Minting ERC721s on Avalanche](https://docs.avax.network/build/tutorials/tutorials-contest/how-to-mint-erc721-using-openzeppelin/tutorial)
--   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
 -   [Web3 Developer Roadmap Video](https://www.youtube.com/watch?v=q54j35z3fPQ)
--   [Biconomy Explainer](https://chisel-quality-501.notion.site/All-you-need-to-know-about-Biconomy-82cd8281ad9a4fb6afc815e3fc28c793)
 -   [Build React Native Apps on Celo](https://medium.com/celodevelopers/celo-composer-react-native-easily-build-react-native-dapps-on-celo-bdc57080772f)
--   [Bridging tokens to and from Celo via Wormhole](https://medium.com/celodevelopers/bridging-token-to-and-from-celo-via-wormhole-83cae48dfcff)
--   [How to create a Loyalty Program using Meta-transactions](https://medium.com/celodevelopers/how-to-create-a-loyalty-program-using-meta-transactions-686ae036b976)
 -   [Introduction to Celo](https://www.youtube.com/watch?v=HQ3FRZiuPfI)
 -   [Introduction to Hardhat](https://www.youtube.com/watch?v=W7nGdHKcIFw) @Build with Celo Hackathon
 -   [ETHGlobal Celo Presentation](https://www.youtube.com/watch?v=5sgNDf9olJ8)
+-   [Bridging tokens to and from Celo via Wormhole](https://medium.com/celodevelopers/bridging-token-to-and-from-celo-via-wormhole-83cae48dfcff)
+-   [How to create a Loyalty Program using Meta-transactions](https://medium.com/celodevelopers/how-to-create-a-loyalty-program-using-meta-transactions-686ae036b976)
+-   [Biconomy Explainer](https://chisel-quality-501.notion.site/All-you-need-to-know-about-Biconomy-82cd8281ad9a4fb6afc815e3fc28c793)
+-   [SVG NFT Minting Course Metaschool](https://metaschool.so/courses/create-a-horoscope-web3-nft-application)
+-   [Minting ERC721s on Avalanche](https://docs.avax.network/build/tutorials/tutorials-contest/how-to-mint-erc721-using-openzeppelin/tutorial)
 
 Communities I am part of.
 
