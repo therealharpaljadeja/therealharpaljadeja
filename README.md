@@ -766,7 +766,6 @@ Communities I am part of.
 -   [Kernel by Gitcoin](https://www.kernel.community/en)
 -   [Secureum Cohort 0](https://www.secureum.xyz/)
 -   [Macro](https://0xmacro.com/)
--   [FBI](https://warpcast.com/callusfbi)
 
 <!---
 therealharpaljadeja/therealharpaljadeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
