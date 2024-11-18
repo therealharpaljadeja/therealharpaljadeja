@@ -1,4 +1,4 @@
-👋 Hi, I’m @therealharpaljadeja, I work at Monad as Senior Developer Relations Engineer !
+👋 Hi, I’m @therealharpaljadeja, I work at Monad as Senior Developer Relations Engineer!
 
 📫 How to reach me
 <br>
